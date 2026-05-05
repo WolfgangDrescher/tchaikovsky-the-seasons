@@ -1,0 +1,52 @@
+!!!COM: Tchaikovsky, Pyotr Ilyich
+!!!CDT: 1840/05/07-1893/11/06
+!!!OPR: The Seasons
+!!!OPS: 37a
+!!!ONM: 1
+!!!OTL: January
+!!!OMD: Moderato semplice ma espressivo
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*ICklav	*	*
+*clefF4	*clefG2	*
+*k[f#c#g#]	*k[f#c#g#]	*
+*M3/4	*M3/4	*
+=1	=1	=1
+*	*^	*
+4r	8f#L	4r	p
+.	(16g#L	.	.
+.	16aJJ)	.	.
+*^	*	*	*
+[2E	(4D	(8g#L	4B 4e	<
+.	.	8bJ)	.	.
+.	4C#)	(8eL	[4e	.
+.	.	8aJ)	.	.
+=2	=2	=2	=2	=
+4E]	(8BB'L	(8g#'L 8b	4e]	.
+.	8AA'J)	8a'J) 8cc#	.	.
+2E	(4GG#	(4b 4ee	2e	.
+.	4AA)	4a) 4cc#	.	.
+*v	*v	*	*	*
+=3	=3	=3	=3
+4r	8cc#L	4r	[
+.	(16ddL	.	.
+.	16eeJJ)	.	.
+4AA#X: 4F#: 4c#:	(8cc#L 8ff#	4f#	.
+.	8cc#J)	.	.
+4BB 4F# 4B	4b 4dd	4f#	.
+=4	=4	=4	=4
+4r	8f#L	4r	>
+.	(16g#L	.	.
+.	16aJJ)	.	.
+(4BB 4A	(8cc#L	(4d#X	.
+.	[8a#XJ	.	.
+4E) 4G#	8a#L]	4dn)	]
+.	8bJ)	.	.
+*	*v	*v	*
+=5	=5	=5
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!ENC: Wolfgang Drescher
+!!!END: 2026/05/05
+!!!EEV: 2026/05/05
